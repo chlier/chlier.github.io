@@ -1,0 +1,7 @@
+julekalender {
+    background-image: url("../bilder/julekalender.jpg");
+    background-size: contain;
+    background-position: center;
+    width: 980;
+    height: 750;
+}
