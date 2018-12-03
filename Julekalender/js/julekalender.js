@@ -9,5 +9,5 @@ function setup() {
       divVis.style.backgroundImage = `url("../bilder/bilde${nr}.jpg")`;
       divVis.style.display = "block";
       setTimeout(() =>  divVis.style.display = "none", 2000);
-    }
+    } 
   }
