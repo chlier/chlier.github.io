@@ -1,5 +1,12 @@
+header {
+    text-align: center;
+    background-image: linear-gradient(to right, red , yellow);
+    color: black;
+    font-size: 272%;
+}
+
 #ytre {
-    background-image: url(../bilder/julekalender.jpeg);
+    background-image: url(../bilder/julekalender.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -41,8 +48,4 @@
     top: 10em;
     left: 10em;
     background-image: url("../bilder/bilde1.jpg);
-}
-
-#header {
-    
 }
